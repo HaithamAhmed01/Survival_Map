@@ -1,4 +1,4 @@
-# Survival_Map
+# Survival_Map of my project in University
 
 A new Flutter application.
 
